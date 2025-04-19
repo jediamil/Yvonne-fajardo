@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    /* Font Families */
+    --font-serif: "Playfair Display", serif;
+    --font-sans: "Poppins", sans-serif;
+    
+    /* Color Palette */
+    --color-dark: #17153B;
+    --color-primary: #2E236C;
+    --color-secondary: #433D8B;
+    --color-accent: #eee8f1;
+  }
